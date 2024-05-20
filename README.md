@@ -9,6 +9,8 @@ Este proyecto esta contruido con workspace
 
 Uso de PNPM
 
+![DALL·E 2024-05-20 16 21 23 - A combined logo featuring the TypeScript and Vite logos  The TypeScript logo is a blue square with 'TS' in white letters, while the Vite logo is a pur](https://github.com/AlexisBustamante/react-vite-upload-csv/assets/67126019/7b723896-476b-489f-b6b1-6d7aa89f9b86)
+
 
 ## Tabla de Contenidos
 
